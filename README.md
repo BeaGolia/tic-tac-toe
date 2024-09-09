@@ -1,6 +1,8 @@
 # Tic Tac Toe Game - Vue.js
 
-This is a simple Tic Tac Toe (Noughts and Crosses) game built with Vue.js.
+This is a simple Tic Tac Toe game built with Vue.js.
+![image](https://github.com/user-attachments/assets/8986e951-95fd-4e2c-819d-0e5989770bf7)
+
 
 ## How to Run the Project
 
@@ -28,7 +30,7 @@ This is a simple Tic Tac Toe (Noughts and Crosses) game built with Vue.js.
 ## Technologies Used
 
 - **Vue.js:** Frontend framework
-- **HTML5/CSS3:** For the layout and styling
+- **HTML5/CSS3:** For layout and styling
 
 ## Future Enhancements
 
