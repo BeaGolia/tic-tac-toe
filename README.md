@@ -1,24 +1,40 @@
-# tic-tac-toe
+# Tic Tac Toe Game - Vue.js
 
-## Project setup
-```
-npm install
-```
+This is a simple Tic Tac Toe (Noughts and Crosses) game built with Vue.js.
 
-### Compiles and hot-reloads for development
-```
-npm run serve
-```
+## How to Run the Project
 
-### Compiles and minifies for production
-```
-npm run build
-```
+1. **Clone the repository:**
+```git clone https://github.com/your-username/tic-tac-toe.git```
 
-### Lints and fixes files
-```
-npm run lint
-```
+2. **Navigate into the project directory:**
+```cd tic-tac-toe```
 
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+3. **Install the dependencies:**
+```npm install```
+
+4. **Run the development server:**
+```npm run serve```
+
+5. **Open your browser** and navigate to `http://localhost:8080` to start playing the game!
+
+## Features
+
+- **Interactive 3x3 grid:** Players take turns clicking cells to place their "X" or "O".
+- **Winning detection:** The game detects when a player wins and displays a message.
+- **Reset functionality:** Start a new game by clicking the "Play Again" button.
+- **Responsive design:** The game layout adjusts to different screen sizes.
+
+## Technologies Used
+
+- **Vue.js:** Frontend framework
+- **HTML5/CSS3:** For the layout and styling
+
+## Future Enhancements
+
+- Add a score counter for both players.
+- Implement a mode to play against an AI.
+
+## Link
+
+https://beagolia.github.io/tic-tac-toe/
